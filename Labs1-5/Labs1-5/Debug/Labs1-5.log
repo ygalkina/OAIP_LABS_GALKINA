@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\zver\desktop\oaip_labs\labs1-5\labs1-5\source.cpp(27): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\zver\desktop\oaip_labs\labs1-5\labs1-5\source.cpp(29): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Labs1-5.vcxproj -> C:\Users\Zver\Desktop\OAIP_LABS\Labs1-5\Debug\Labs1-5.exe
+  Labs1-5.vcxproj -> C:\Users\Zver\Desktop\OAIP_LABS\Labs1-5\Debug\Labs1-5.pdb (Partial PDB)
